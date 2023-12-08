@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0Enbjrgg6fvWDR2FrRJd4JJn2BfGedI5HnnEq3CI44BRmMoEJy9oNsRAETazX5u8g3P8qTq32OvJn/osRILsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ellio\\source\\repos\\mastermind\\mastermind\\mastermind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ellio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ellio\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ellio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ellio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
